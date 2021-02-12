@@ -1,0 +1,7 @@
+batch_data/*
+logs/*
+trained_vae/*
+__pycache__/
+__pycache__/*
+trained_agents/
+trained_agents/*
